@@ -1,0 +1,2 @@
+# wifither-docs
+Wifither documentation
